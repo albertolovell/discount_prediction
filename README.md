@@ -4,6 +4,7 @@ The goal of this study is to train one or more machine learning models that will
 possible. The data accompanying this repo includes about 130,000 sales transactions.
 
 Our main tasks are:
+
 (1) analyze our data to get a good understanding, discovering pitfalls to avoid, recognizing outliers, or finding errors
 
 (2) choose and execute a machine learning approach to tackle the problem
